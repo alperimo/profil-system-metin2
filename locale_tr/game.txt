@@ -1,0 +1,4 @@
+PROFIL_TEXT	Profil oluþturma bir daha karþýnýza çýkmayacak.
+PROFIL_KABULEDIYORMUSUN	Kabul ediyormusun?
+PROFIL_BAKIYORSUN	Þuanda zaten bir profili inceliyorsun.
+PROFIL_TITLE	%s adlý oyuncunun profil'i
